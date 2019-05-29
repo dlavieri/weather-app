@@ -1,0 +1,18 @@
+.button {
+  cursor: pointer;
+}
+
+.Submit {
+  background-color: #fff;
+  color: #000;
+  border-radius: 3px;
+  border: 1px #fff solid;
+  font-size: 1rem;
+  height: 30px;
+  width: 200px;
+  min-width: 200px;
+  line-height: 30px;
+  background-color: #88bbd6;
+  color: #fff;
+  font-weight: bold;
+}
